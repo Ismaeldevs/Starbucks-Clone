@@ -1,0 +1,105 @@
+@import url('https://db.onlinewebfonts.com/c/d7e8a95865396cddca89b00080d2cba6?family=SoDo+Sans+Bold');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.block-content{
+    display: flex;
+    justify-content: center;
+}
+
+.block-image {
+    display: flex;
+    background-color: #b073eb;
+    width: 75%;
+}
+
+.block-info h3 {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+}
+
+.info-product {
+    position: relative;
+    top: 80px;
+}
+
+.info-product p {
+    position: relative;
+    left: 40px;
+    top: 20px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-size: 20px;
+    width: 90%;
+    color: white;
+}
+
+.block-content2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    height: 550px;
+}
+
+.block-image2 {
+    background-color: #d4e9e2;
+    width: 75%;
+}
+
+.block-image2 img {
+    margin-top: -220px;
+}
+
+.block-info2 {
+    position: relative;
+    top: 180px;
+    left: 200px;
+}
+
+.block-info2 h3 {
+    display: flex;
+    justify-content: start;
+    font-size: 3.125rem;
+    font-weight: 500;
+    width: 30%;
+    color: #00754a;
+}
+
+.block-info2 p {
+    position: relative;
+    font-size: 20px;
+    top: 20px;
+    left: 20px;
+    font-weight: 600;
+    color: #00754a;
+
+} 
+
+.button {
+    position: relative;
+    top: 30px;
+    left: 150px;
+    background-color: #d4e9e2;
+    border: 1px solid #00754a;
+    font-weight: 700;
+    text-decoration: none;
+    color: #00754a;
+    position: relative;
+    outline: none;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 35px;
+    width: 130px;
+    opacity: 1;
+  }

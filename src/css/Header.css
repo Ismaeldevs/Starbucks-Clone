@@ -1,0 +1,60 @@
+@import url('https://db.onlinewebfonts.com/c/d7e8a95865396cddca89b00080d2cba6?family=SoDo+Sans+Bold');
+
+.bg-header {
+    background-color: #fff;
+    box-shadow: 0 3px 3px rgba(0,0,0,.1);
+}
+
+.logo {
+    background: url(../assets/logoStarbucks.svg);
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80%;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    text-indent: -9999em;
+    background-size: cover;
+    display: block;
+    position: relative;
+    right: 10px;
+}
+
+.header {
+    display: block;
+    position: relative;
+    left: 350px;
+    padding: 10px;
+}
+
+.text-header {
+    font-family: 'SoDo Sans', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    color: rgba(0, 0, 0, .87);
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #006241;
+    cursor: pointer;
+}
+
+.location-header {
+    display: block;
+    position: relative;
+    left: 500px;
+}
+
+.text-location {
+    font-family: SoDo Sans, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    color: rgba(0, 0, 0, .87);
+    font-size: 1rem;
+    text-decoration: none;
+    transition: color .2s ease;
+}
+
+.text-location:hover {
+    color: rgba(56, 56, 56, 0.966);
+}

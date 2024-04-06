@@ -1,0 +1,159 @@
+.title-general {
+    background-color: #1e3932;
+}
+
+.title-exp {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 40px;
+}
+
+.title-exp h3 {
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    color: #1e3932;
+    top: 40px;
+}
+
+.description h2 {
+    font-size: 33px;
+    font-weight: 600;
+    width: 40%;
+}
+
+.store-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+
+.store-image {
+    display: flex;
+    background-color: #f2f0eb;
+    height: 350px;
+    width: 62%;
+}
+
+.store-desc h2 {
+    position: relative;
+    top: 50px;
+    font-weight: 600;
+    font-size: 34px;
+    color: black;
+}
+.store-desc p {
+    display: block;
+    margin-block-start: 3em;
+    margin-block-end: 3em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    top: 15px;
+    width: 85%;
+    font-size: 21px;
+    font-weight: 400;
+    color: black;
+}
+
+.desc {
+    position: relative;
+    left: 45px;
+}
+
+.drive-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+
+.drive-image {
+    display: flex;
+    background-color: #f2f0eb;
+    height: 350px;
+    width: 62%;
+}
+
+.drive-desc h2 {
+    position: relative;
+    top: 100px;
+    font-weight: 600;
+    font-size: 32px;
+    color: black;
+}
+.drive-desc p {
+    display: block;
+    margin-block-start: 3em;
+    margin-block-end: 3em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    top: 60px;
+    width: 85%;
+    font-size: 21px;
+    font-weight: 400;
+    color: black;
+}
+
+
+.delivery-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+
+.delivery-image {
+    display: flex;
+    background-color: #f2f0eb;
+    height: 350px;
+    width: 62%;
+}
+
+.delivery-desc h2 {
+    position: relative;
+    top: 60px;
+    font-weight: 600;
+    font-size: 32px;
+    color: black;
+}
+.delivery-desc p {
+    display: block;
+    margin-block-start: 3em;
+    margin-block-end: 3em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    top: 30px;
+    width: 85%;
+    font-size: 21px;
+    font-weight: 400;
+    color: black;
+}
+
+.btnDelivery {
+    position: relative;
+    left: 220px;
+    background-color: #f2f0eb;
+    border: 1px solid #000;
+    font-weight: 700;
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    outline: none;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 35px;
+    width: 130px;
+    opacity: 1;
+}
+
+.btnDelivery:hover {
+    color: #000;
+    background-color: rgba(176, 176, 176, 0.186);
+}

@@ -1,0 +1,238 @@
+.title-content {
+    padding: 90px;
+    background-color: #1e3932;
+}
+
+.title-content h4 {
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+    position: relative;
+    right: 180px;
+}
+
+.paragraph-main-cafe {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-main-cafe p {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    width: 35%;
+}
+
+.paragraph-extra-cafe {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-extra-cafe p {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    width: 35%;
+}
+
+.paragraph-end-cafe {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-end-cafe p {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    width: 35%;
+}
+
+.image-content {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.title h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 30px;
+    position: relative;
+    right: 140px;
+}
+
+.paragraph-tostado {
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-tostado p {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    width: 33%;
+    position: relative;
+    right: 14px;
+}
+
+.title-rubio h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 30px;
+    position: relative;
+    right: 310px;
+}
+
+.paragraph-rubio {
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-rubio p {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    width: 33%;
+    position: relative;
+    right: 28px;
+}
+
+.title-medio h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 30px;
+    position: relative;
+    right: 310px;
+}
+
+.paragraph-medio {
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-medio p {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    width: 33%;
+    position: relative;
+    right: 28px;
+}
+
+.title-oscuro h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 30px;
+    position: relative;
+    right: 305px;
+}
+
+.paragraph-oscuro {
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-oscuro p {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    width: 33%;
+    position: relative;
+    right: 28px;
+}
+
+.title-metodos {
+    display: flex;
+    justify-content: center;
+}
+
+.title-metodos h3 {
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 30px;
+    width: 32%;
+    position: relative;
+    right: 25px;
+}
+
+.paragraph-metodos {
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-metodos p {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    width: 34%;
+    position: relative;
+    right: 5px;
+}
+
+.paragraph-end {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-end p {
+    color: rgba(0, 0, 0, .87);
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    width: 40%;
+    position: relative;
+    left: 50px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-metodos {
+    position: relative;
+    top: 20px;
+    right: 220px;
+    background-color: #fff;
+    border: 1px solid #212121;
+    font-weight: 700;
+    text-decoration: none;
+    color: #212121;
+    position: relative;
+    outline: none;
+    border-radius: 30px;
+    cursor: pointer;
+    height: 35px;
+    width: 230px;
+    opacity: 1;
+}

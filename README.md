@@ -1,8 +1,36 @@
-# React + Vite
+# STARBUCKS - PAGE CLON
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Está página de Starbucks fue hecha con fienes de práctica Front-End y para mejorar la lógica de programación de uno mismo, no hay otras intenciones al
+replicar el sitio web.
 
-Currently, two official plugins are available:
+ ## INSTALACION 🪛
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clona el proyecto.
+
+```bash
+  git clone https://github.com/Ismaeldevs/FashionStore-Proyect.git
+```
+
+Ingresa al directorio del proyecto.
+
+```bash
+  cd nombre-del-proyecto
+```
+
+Instala las dependencias.
+
+```bash
+  npm install
+```
+
+Inicia los datos
+
+```bash
+  json-server -p 3001 -w db.json
+```
+
+Iniciar el servidor
+
+```bash
+  npm run dev
+```
